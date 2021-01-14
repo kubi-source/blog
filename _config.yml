@@ -22,6 +22,11 @@ url: "https://kubi-source.github.io" # the base hostname & protocol for your sit
 twitter_username: bos
 github_username:  kubi-source
 
+author: Kubilay Bıyıklı
+
+copyright: "Kubilay Bıyıklı"
+
+
 # Build settings
 markdown: kramdown
 #Removed minima theme it is now regular theme
