@@ -20,11 +20,11 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "https://kubi-source.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: bos
-github_username:  kubi-source
+github_username:  kubi-sour
 
-author: Kubilay Bıyıklı
+author : Kubilay Bıyıklı
 
-copyright: "Kubilay Bıyıklı"
+copyright : "Kubilay Bıyıklı"
 
 
 # Build settings
