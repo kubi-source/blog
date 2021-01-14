@@ -24,7 +24,8 @@ github_username:  kubi-source
 
 # Build settings
 markdown: kramdown
-theme: minima
+#Removed minima theme it is now regular theme
+#theme: minima
 plugins:
   - jekyll-feed
 
